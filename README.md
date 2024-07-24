@@ -1,6 +1,3 @@
-# layer_health_interview
-Layer Health Take Home Interview
-
 # Problem to solve: 
 In this assessment my goal is to take written clinical notes about patients and determine if they have:
 1. Cancer (Yes / No)
