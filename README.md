@@ -7,10 +7,8 @@ Framing this as a Data Science / Machine Learning problem, attempt to build a mo
 
 
 # Data
-The text is derived from the [Asclepius Synthetic
-Clinical Notes]([url](https://huggingface.co/datasets/starmpcc/Asclepius-Synthetic-Clinical-Notes)) dataset.
-
-
+[Asclepius Synthetic
+Clinical Notes](https://huggingface.co/datasets/starmpcc/Asclepius-Synthetic-Clinical-Notes)
 
 The data given is a table containing the columns: 
 * patient_identifier: id
