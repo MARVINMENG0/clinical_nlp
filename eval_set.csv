@@ -1,0 +1,292 @@
+patient_identifier,text,has_cancer,has_diabetes,test_set
+1814,"Discharge Summary:
+
+Patient Name: [REDACTED]
+Medical Record Number: [REDACTED]
+Date of Admission: [REDACTED]
+Date of Discharge: [REDACTED]
+Length of Stay: [REDACTED]
+
+Chief Complaint: Chest pain radiating to the back with associated nausea
+
+Hospital Course:
+The patient, a 79-year-old female, was admitted to [Hospital Name] with a complaint of chest pain radiating to the back with associated nausea. She had a past medical history of chronic lymphocytic leukemia (in remission). Initial examination showed afebrility with mild epigastric tenderness and blood pressure 161/78 mm Hg. The patient's laboratory values revealed a white blood cell count of 7.33 K/µL and hemoglobin of 13.3 g/dL.
+
+Abdominal ultrasound revealed a dilated common bile duct (CBD) without stones but with a slightly dilated gallbladder. Magnetic resonance cholangiopancreatography confirmed CBD dilation without definite stricture. However, subsequent endoscopic retrograde cholangiopancreatography (ERCP) showed a biliary stricture at the hepatic duct bifurcation. A sphincterotomy was performed, biopsies were obtained, and 2 biliary stents were placed. One stent was placed into the right system, and a second stent went into the left system past the stricture into the right and left hepatic ducts and extending distally into the CBD with adequate bile flow. The patient tolerated the procedure well without complications.
+
+After discharge, the patient immediately began to experience nausea, vomiting, and abdominal pain. On examination, the patient was found to be markedly tender to palpation in the left upper quadrant. Computed tomography scan revealed migration of the stent through the duodenal wall. An upper endoscopy was performed, confirming penetration of the stent through the lateral portion of the second part of the duodenum. The stent was then extracted using a grasping device revealing a transmural defect. This was closed using endoclips.
+
+The patient was started on levofloxacin and metronidazole and was monitored in the hospital. She remained clinically stable and was started on a clear liquid diet on post-procedure day 2. She was discharged on post-procedure day 4 and had no complications in follow-up 2 weeks after discharge.
+
+Diagnosis:
+Biliary stricture
+
+Procedures:
+- Endoscopic retrograde cholangiopancreatography (ERCP)
+- Sphincterotomy
+- Placement of two Advanix™ biliary stents
+- Removal of migrated biliary stent
+- Transmural defect closure using four 11-mm TTS endoclips
+
+Condition at Discharge:
+The patient is discharged with stable vital signs, no evidence of complications, and clear instructions on medications, treatment plan, and follow-up appointments.",1.0,0.0,0
+1749,"Patient Identifier: [Patient Name]
+Gender: Female
+Age: 58
+
+Brief Hospital Course:
+The patient was admitted to the hospital due to a 2-year history of non-productive cough and progressive shortness of breath. She had a history of renal insufficiency and persistent proteinuria, without any extra-renal involvement. She was diagnosed with IgA nephropathy for 15 years and had received immunosuppressive therapy for 6 years.
+
+Physical Examination:
+On examination, the patient was afebrile with stable vital signs. Auscultation detected slight coarse crackles at the bilateral bases while the remainder of the examination was unremarkable.
+
+Diagnostic Tests:
+Her hemoglobin was 95 g/L but renal function and calcium level were normal. The patient was negative for antinuclear and antineutrophil cytoplasmic antibodies. Serum free light chain analysis showed measuring lambda light chain of 2.59 g/L. Serum protein electrophoresis revealed low IgG, IgA, and IgM levels, with reported monoclonal lambda light chain peak with the monoclonal protein. A 24-h urine contained 5521 mg of protein. High-resolution chest CT revealed disclosed ground-glass opacities (GGOs) with interlobular septal thickening in bilateral lungs. Chest and abdominal CT shows soft tissue infiltration of the subcutaneous fat layer with asymmetric bulging of the chest and abdominal wall. Pulmonary function tests revealed a moderately restrictive ventilation disorder, with a forced vital capacity (FVC) of 1.76 L and severe reduction of diffusion capacity (DLCO SB). Cardiac biomarkers including B-type natriuretic peptide (BNP) and cardiac troponin-T were normal. Echocardiography showed normal left ventricular ejection fraction of 61% and there were no features of cardiac amyloidosis. A VATLB showed marked thickening of the alveolar wall deposition of amorphous eosinophilic amyloid at the bronchial mucosa, pulmonary vessel wall, and interstitium. Congo red staining displayed apple-green birefringence in polarized light. The bone marrow examination showed 11.5% plasma cells with lambda light chain restriction.
+
+Diagnosis:
+Diffuse parenchymal pulmonary amyloidosis accompanied by multiple myeloma, lambda light chain type, stage I.
+
+Treatment:
+The patient was referred to the hematology department, where she started chemotherapy with bortezomib and dexamethasone. Her symptoms relieved 2 months after the initial presentation. No adverse effects were observed, and the laboratory results were stable.
+
+Discharge Condition:
+The patient is in a stable condition and ready for discharge.
+
+Follow-up Care:
+The patient will receive regular follow-up care, including close monitoring of renal function, proteinuria, and pulmonary function. She will receive ongoing chemotherapy and management of her underlying conditions, including IgA nephropathy and multiple myeloma, involving immunosuppressive therapy. She is advised to seek immediate medical attention if she experiences any worsening of her symptoms.",1.0,0.0,0
+2706,"Hospital Course:
+The 12-year-old Saudi boy presented with bleeding per rectum and mild abdominal pain 3 days after a blunt abdominal trauma. Initial examination revealed mild intraperitoneal fluid in his pelvis, later confirmed by CT scan to be mild pelvic hemoperitoneum. Serial observation showed a continuous fall in the hemoglobin level despite two units of packed red blood cells transfusion. The patient's clinical condition deteriorated, with a mild fever, tachycardia, and dropping blood pressure, leading to an urgent laparotomy. An injured Meckel's diverticulum was identified as the source of bleeding, and it was resected. The patient required 2 more units of PRBC transfusion during the operation, and 2 more units postoperatively, which increased the hemoglobin level to 10.2 gm/dl. The patient remained stable after the operation, developed a postoperative superficial surgical site infection, and was discharged home on postoperative day 7 with wound care instructions and OPD follow-up after 1 week. No further complications were found during the OPD visit.
+
+Summary:
+A 12-year-old Saudi boy presented with bleeding per rectum and mild abdominal pain 3 days after blunt abdominal trauma. A laparotomy was conducted after his clinical condition deteriorated, and an injured Meckel's diverticulum was identified as the source of arterial bleeding. The injured area was resected, and he required transfusion of blood products. The patient developed a postoperative superficial surgical site infection, but no further complications were identified during the OPD visit. He was discharged home with wound care instructions and OPD follow-up after 1 week.",0.0,0.0,0
+213,"Discharge Summary:
+
+Patient Name: N/A
+Hospital Number: N/A
+Date of Admission: N/A
+Date of Discharge: N/A
+Admitting Diagnosis: N/A
+Admitted Service: N/A
+
+Hospital Course:
+
+A 25-year-old male with a history of blurred vision in the right eye, headache, and weight loss of approximately 30 kg was admitted with a suspected craniopharyngioma. Initial MRI showed a tumor located suprasellarly that was not associated with the pituitary gland. Endocrine evaluation revealed secondary hypogonadism and adrenal insufficiency. The tumor was removed, and perioperative frozen section histological examination suggested the tumor to be a possible malignant lymphoma due to lymphocytic infiltration. The patient was transferred to the Department of Endocrinology at Odense University Hospital, where pituitary hormone insufficiency of all anterior axes and diabetes insipidus was diagnosed, and treatment with various hormones was implemented. Final histological diagnosis revealed autoimmune hypophysitis.
+
+Ten months postoperatively, the patient reported impaired vision, and MRI demonstrated that the pituitary remnant tissue was causing pressure on the optic chiasm. Treatment with glucocorticoid pulse therapy was initiated, which was followed by steroid-sparing treatment with azathioprine when the patient had intolerable adverse effects. The patient responded well to treatment, but after an initial reduction in the pituitary mass, there was a recurrence of the mass, and treatment with rituximab was initiated. The patient responded well to rituximab treatment, resulting in almost complete regression of the pituitary mass.
+
+The patient was discharged with the recommendation to follow up with routine imaging and endocrine evaluation. The patient remains in sustained remission with no further complications, with the control MRI showing no evidence of recurrence.
+
+Discharge Medications:
+
+N/A
+
+Follow-Up:
+
+It is recommended that the patient continue to follow up with imaging and endocrine evaluation to monitor for any potential recurrence of the pituitary mass or complications related to his existing hormone deficiencies. The patient should be advised to seek medical attention if he experiences any recurrence of symptoms.",0.0,0.0,0
+645,"Discharge Summary:
+
+Patient: [Name]
+
+Medical Record Number: [Number]
+
+Date of Admission: [Date]
+
+Date of Discharge: [Date]
+
+Hospital Course:
+
+The patient, a 7-year-old girl of Indian descent presented with complaints of hypochromic linear bands in two regions, which had persisted for one year. The lesions were present on the right forearm and left leg and buttocks without any associated pruritus, pain, hair loss, or nail involvement. No biopsies were taken at the request of the patient's parents. The patient was diagnosed with Lichen striatus and advised observation with explanation of the disease course. A follow-up visit was scheduled but the patient did not return to the clinic.
+
+Final Diagnosis:
+
+Lichen striatus (LS).
+
+Recommendations:
+
+The patient was advised to keep a watch on the hypopigmented lichenoid macules. The parents were offered the option of a biopsy to confirm the diagnosis or follow-up visits. If the lesions had progressed, medical management could be considered after appropriate evaluation.
+
+Patient Education:
+
+The diagnosis, LS, was explained to the patient's parents. The natural course of the disease was reviewed, and it was explained that the condition is self-limiting and resolves spontaneously within a year or two. The parents were advised to avoid traumatic stimuli to prevent Koebnerization.
+
+Follow-Up:
+
+A follow-up was scheduled at a convenient date for the patient.",0.0,0.0,0
+2762,"Hospital Course:
+
+This 70-year-old male patient was admitted to the hospital presenting with increased appetite, palpitations, weight loss, and heat intolerance. Physical examination revealed the presence of a 4 cm thyroid nodule in the left lobe. The patient had a known history of diabetes mellitus, hypertension, and coronary artery disease.
+
+Diagnostic Findings:
+
+The patient's thyroid-stimulating hormone (TSH) level was suppressed 0.29 uIU/mL, while free thyroxine (FT4) and free triiodothyronine (FT3) were elevated. A radioiodine uptake scan detected an abnormal focus of hot uptake in the left lobe, which was suggestive of a hyperfunctioning toxic thyroid nodule. Fine needle aspiration (FNA) was performed, and the cytology report indicated thyroid carcinoma. 
+
+Treatment:
+
+The patient underwent total thyroidectomy, and the pathological report confirmed FVPTC findings. The lesion was limited to the solitary tumor, measuring a diameter of 3.5 cm. Ablative radioiodine therapy was not recommended due to the small size of the tumor. Post-surgery, the patient received levothyroxine medication to prevent hypothyroidism and to stop TSH stimulation. 
+
+Follow-Up:
+
+Serum TSH and serum thyroglobulin were regularly monitored. On follow-up visit, radioactive iodine whole-body scan showed no distant metastasis. 
+
+Summary:
+
+This 70-year-old male patient presented classic symptoms of hyperthyroidism which were investigated by FNA revealing FVPTC arising within a toxic nodule. The patient underwent total thyroidectomy with no distant metastasis on follow-up visit. The patient received post-operative treatment and follow-up monitoring to manage the thyroid status.",1.0,1.0,0
+461,"Hospital Course:
+The patient presented with left lower quadrant abdominal pain and elevated creatinine, which was subsequently identified on routine blood draw at a follow-up urology appointment. Computed tomography abdomen revealed hydronephrosis of the left kidney as well as bilateral ureteral thickening. The patient had a right ureter stent placed one month prior after presenting with acute kidney injury.
+
+Diagnostic Assessment:
+Urinalysis and pregnancy testing were negative. Further workup, including chest x-ray, sexually transmitted infection testing, complement activity levels, and other autoimmune markers, was negative. Biopsies of ureter specimens showed findings of benign epithelial growth and chronic inflammation.
+
+Treatment and Procedures:
+During this admission, a stent was placed in the left ureter and the right ureter stent was replaced. Repeat biopsies of both the right and left ureters showed findings of benign epithelial growth and chronic inflammation.
+
+Follow-up Plan:
+The patient was discharged home symptom-free with close urologic follow-up.",0.0,0.0,0
+2117,"Hospital Course:
+
+The patient is a 10-year-old girl who presented with a firm, painless swelling in the distal right forearm. X-ray examination revealed a large lobulated, compartmentalized, osteolytic, expansive tumor mass in the metadiaphysis of the distal radius. On MRI, the tumor measured 35 × 46 × 47 mm and had a well-defined boundary, but no sclerotic margin. Imaging features were consistent with a destructive tumor that originated from the distal radius, grew slowly, and then broke through the cortex of the radius into the adjacent soft tissue.
+
+Diagnostic tests revealed a CTNNB1 hotspot class 5 pathogenic variant in exon 3: p.Ser45Phe. Additionally, cytogenetic analysis revealed a normal female karyotype with trisomy 8 detected in 2 cells. On gross examination, the largest tumor fragment measured 6 × 5 × 3 cm. Tumor histology was reminiscent of desmoid fibromatosis and consistent with desmoplastic fibroma.
+
+The patient underwent intralesional excision of the tumor and tolerated the procedure well. Wrist function was unimpaired postoperatively.
+
+The patient was discharged in stable condition and will receive follow-up with an oncologist to monitor for recurrence or metastasis. The patient and family are to be educated on signs and symptoms to report to a healthcare provider. They are to be counseled on the possibility of needing additional testing and imaging in the future.",1.0,0.0,0
+1207,"Discharge Summary:
+
+Patient Name: [Redacted]
+Gender: Female
+Age: 9 Years old
+Admission Date: January 2016
+Discharge Date: N/A
+
+Hospital Course:
+
+The patient, a 9-year-old female with no medical history, presented with low back and left lower limb pain in January 2016. She was diagnosed with osteosarcoma of the left tibia with a solitary metastasis in her L3 vertebrae in February 2016. She subsequently underwent a left below knee amputation and L3 corpectomy with posterior spinal fusion and instrumentation from L1 to L5 with decompression laminectomy at L2-3, and L3-4 through a posterior and left thoracoabdominal approach in March 2016. The patient was found to have an abnormal bone scan with a lesion at the L3 level 3 months after completing chemotherapy in November 2016. On magnetic resonance imaging (MRI) scan and ultrasound guided fine-needle aspiration cytology (FNAC) of right paraspinal psoas tissue, the patient was confirmed to have recurrent osteoblastic osteosarcoma in December 2016.
+
+Physical Examination:
+
+On physical examination, the patient was able to ambulate with use of a below knee prosthesis and demonstrated no neurological deficits.
+
+Treatment:
+
+The patient was started on second line drugs, including two cycles of ifosfamide/etoposide. Previous implants were well in place. Imaging was performed with radiographs, CT scan, bone scan, PET scan, and MRI scan with contrast enhancement to confirm only a single metastatic site. The option of nonoperative palliative care was offered to the patient and her family, but they elected to proceed with en bloc resection to maximize her chances of survival, in spite of high surgical risk and an overall poor prognosis. They were informed preoperatively that a complete resection would require sacrificing her nerve roots at L2, L3 and L4. A palliative decompression was not offered for the revision procedure as a treatment option as the patient was not complaining of pain or neurological symptoms, and it would not have improved her life expectancy. 
+
+Conclusion:
+
+In summary, the patient is a 9-year-old female with no previous medical history who was diagnosed with osteosarcoma of the left tibia with a solitary metastasis in her L3 vertebrae. Despite undergoing a left below knee amputation and L3 corpectomy with posterior spinal fusion and instrumentation, the patient was confirmed to have a recurrence of osteoblastic osteosarcoma. The patient was started on second line drugs and subsequently had en bloc resection of L2, L3, and L4. The decision was made with the family to proceed with this risky surgery in order to maximize the patient's chances of survival, despite an overall poor prognosis.",1.0,0.0,0
+765,"Hospital Course:
+
+The patient is a 67-year-old male with a history of type 2 diabetes mellitus (T2DM) and hypertension who presented with diplopia, right eye pain, and sinus congestion. The patient was diagnosed with mucormycosis, a fungal infection, which was treated with a combination of IV amphotericin B, isavuconazole, and surgical debridement of necrotic tissue. The patient's condition improved, and he was discharged after 19 days with a plan for outpatient follow-up evaluations with the Infectious Disease, Ear, Nose, and Throat (ENT), and Ophthalmology teams. The patient's T2DM was better controlled with oral antihyperglycemic agents, and his HbA1c improved to 5.0% from 12.4% in three months.
+
+Discharge Diagnosis:
+
+The patient was diagnosed with mucormycosis, a fungal infection.
+
+Hospital Course:
+
+The patient was admitted with complaints of diplopia, right eye pain, and sinus congestion. The patient was diagnosed with mucormycosis and was treated with IV amphotericin B, isavuconazole, and surgical debridement of necrotic tissue. After 19 days of treatment, his condition improved, and he was discharged with a plan for outpatient follow-up evaluations with the Infectious Disease, ENT, and Ophthalmology teams.
+
+Hospital Complications:
+
+None.
+
+Significant Events:
+
+The patient was diagnosed with mucormycosis and received treatment with IV amphotericin B, isavuconazole, and surgical debridement of necrotic tissue. His T2DM was better controlled with oral antihyperglycemic agents, and his HbA1c improved to 5.0% from 12.4% in three months.
+
+Discharge Instructions:
+
+The patient should follow up with the Infectious Disease, ENT, and Ophthalmology teams as planned. The patient's sitagliptin dose should be continued at 50 mg daily for T2DM management.",0.0,1.0,0
+2776,"DISCHARGE SUMMARY
+
+Patient Name: [REDACTED]
+Gender: Female
+Date of Birth: [REDACTED]
+Date of Admission: [REDACTED]
+Date of Discharge: [REDACTED]
+
+Admitting Diagnosis: Ovarian cyst
+
+Hospital Course:
+The patient was admitted with a three-day history of increasing abdominal bloating, vomiting, and fevers. On admission, the patient had a temperature of 39.9°C, a heart rate of 127, and a respiratory rate of 35. Initial investigations showed mildly deranged liver enzymes, an elevated CRP, and slightly elevated CA-125 and CA-19.9. CT scan showed a 22 × 13 cm multiseptated cystic lesion almost certainly of ovarian aetiology, as well as omental fat hazing, raising the possibility of an acute omental infarction. The patient was admitted for observation and intravenous antibiotics. Her fever resolved, and she was discharged home with a plan to follow-up in outpatient clinic for elective ovarian cystectomy.
+
+Ten days later, the patient re-presented to the hospital with severe abdominal pain and ongoing fevers. Repeat laboratory results showed worsening liver enzymes and a further rise of CRP. A repeat CT scan showed the large ovarian cyst had likely ruptured with new generalized ascites and peritoneal enhancement, concerning for disseminated disease.
+
+Treatment:
+The patient underwent emergency laparotomy with total abdominal hysterectomy, bilateral salpingo-oophorectomy, infracolic omentectomy, and appendectomy. The cyst had a small leak, and 3.5 L of fluid was drained from the cyst and sent for histology. A further 200 ml of ascitic fluid was collected. Inflammatory changes on the surface of the pelvis, and multiple inflammatory deposits overlying small bowel mesentery were noted. Histology of the cyst showed a benign mucinous cystadenoma. The uterus, ovarian cyst, omentum, and appendix contained florid granulomatous inflammation and caseous necrosis. Peritoneal fluid cultured Mycobacterium tuberculosis. A chest CT confirmed lymph node calcification consistent with previous tuberculosis, with no evidence of active infection.
+
+Disposition:
+The patient's postoperative recovery was uneventful, and she was commenced on isoniazid, rifampicin, ethambutol, and pyrazinamide under guidance of the Infectious Disease team. The patient remained well at a recent 3-month follow-up.",0.0,0.0,0
+141,"Discharge Summary:
+
+Patient Name: N/A
+Gender: Male
+Age: 52
+
+Hospital course: The patient was admitted to the emergency room due to repeated lipothymia, hematemesis, and melaena. Upon admission, the patient was hemodynamically unstable and showed acute anemia, with a hemoglobin value of 6g/dL. The patient had a history of non-steroidal anti-inflammatory drugs (NSAIDs) therapy and enalapril therapy for hypertension. A computed tomography (CT) scan of the abdomen revealed a narrow lumen of the second portion of the duodenum, and an esophagus-gastro-duodenoscopy (EGDS) examination revealed multiple sub-centimeter lymph node formations in the stomach. The patient's condition worsened, and he was transferred to Intensive Care, was intubated, and underwent therapy to restore hemodynamic balance. An emergency gastroscopy was performed, which revealed an ulcerative lesion of the duodenal bulb with circumferential extension to the intestinal wall. On the fifth day, the hemodynamics were unstable, and the anemia persisted; conditions precipitated due to common complications of hypovolemia. Hemorrhagic shock and peritonitis due to enterobiasis were assessed as causes of death.
+
+Autopsy findings: After 72 h, an autopsy was performed. Femoral blood was analyzed for alcohol and volatiles by head-space gas chromatography coupled with a flame ionization detector. All post-mortem specimens were screened for the presence of the main different classes of drugs using immunological or chromatographic methods as appropriate. A systematic toxicological analysis was performed by the LC-MS/MS system in multiple reaction monitoring mode.
+
+Diagnosis: Hemorrhagic shock and peritonitis due to enterobiasis.
+
+Disposition: Deceased.
+
+Follow-up: There is no follow-up required as the patient is deceased.",0.0,0.0,0
+777,"Discharge Summary:
+
+
+Hospital Course:
+The patient is a 70-year-old female with past medical history significant for arthritis and right total hip arthroplasty approximately 9 years ago. She was admitted to our hospital with septic shock, fevers, chills, lethargy, altered mental status, and blood and urine cultures positive for E. coli. On admission, a CT scan of her right hip revealed two partly calcified soft tissue masses associated with the right iliopsoas and obturator internus muscles. Following further investigation, the patient was diagnosed with an iliopsoas abscess and a periprosthetic infection. The hepatic abscess was managed with IV antibiotics and IR placed drainage catheter.
+
+Treatment:
+The patient was managed in multiple surgical stages. In the first stage, an irrigation and debridement of the right hip and explantation of components were performed with temporary components replanted with an antibiotic impregnated cement spacer system. The intrapelvic iliopsoas collection could not be fully debrided through the anterior approach, and IR was consulted for drain placement and serial debridements. Four weeks following her explantation, the patient underwent placement of a second temporary weight-bearing custom-fitted prosthesis made from methyl methacrylate with gentamicin-impregnated antibiotics.
+
+Follow-Up:
+Approximately 18 months later, the patient presented with hip and thigh pain with ambulation. The temporary prosthesis was removed, and a long porous coated system was inserted. The patient was discharged and followed up monthly in our clinic with no clinical signs or symptoms of recurrent infection.
+
+Functional Status:
+The patient continues to have a moderate limp but ambulates without assistive devices. Her pain is much improved.
+
+Final Diagnosis:
+The patient was diagnosed with an iliopsoas abscess and a periprosthetic infection following a laparoscopic cholecystectomy with bacterial infection complications.
+
+Condition on Discharge:
+The patient is clinically stable and was discharged home in good condition.
+
+Instruction at Discharge:
+The patient is advised to complete a 6-week course of IV antibiotics.
+
+Follow-Up with:
+The patient was advised to follow up on a monthly basis in our clinic.",0.0,0.0,0
+2644,"Discharge Summary:
+
+Patient A.III.1 - 30-year-old female presented with antibody deficiency and CTLA-4 insufficiency. Additional complications included CNS involvement, psoriatic skin irritation, arthralgia, and a recurrent enteropathy treated with steroids and immunoglobulin replacement therapy (IGRT). She recently underwent four courses of rituximab for EBV viremia and is currently stable after the first course of AVD-Brentuximab.
+
+Patient H.II.1 - 21-year-old male presented with protracted diarrhea, ITP, and AIHA. He underwent intensive immunosuppression, splenectomy, and developed lymphocytic CNS lesions and recurrent generalized lymphadenopathies. With high fevers and worsening clinical condition, he was admitted to intensive care due to progressive respiratory insufficiency, severe pancytopenia, and severe colitis. Despite various treatment approaches including immunosuppressive, quadruple-therapy, and sequential therapy for a concomitant atypical tuberculosis, his condition worsened, and he passed away 4 months after onset of EBV viremia, with pathology revealing the diagnosis of an EBV-associated classic Hodgkin lymphoma with bone marrow infiltration.",1.0,0.0,0
+1949,"Discharge Summary:
+
+Patient Name: Japanese male, age 53
+
+Medical Record Number: [REDACTED]
+
+Admission Date: [REDACTED]
+
+Discharge Date: [REDACTED]
+
+Hospital Course:
+The patient was admitted for further investigation of a hypervascular liver tumor detected on a CT scan. The patient had a history of hypertension but no history of hereditary disease such as Von Hippel-Lindau disease, nor family history of patients. A physical examination was unremarkable, and no notable symptoms were present. The liver tumor was confirmed through abdominal contrast-enhanced CT examination. Additionally, vascular and cystic masses were found in the pancreas.
+
+Diagnostic and Treatment Procedures:
+Endoscopic ultrasonography was performed, which showed the presence of tumors in the pancreatic head and body. The liver tumor was biopsied, and the results indicated that the patient had a metastatic neuroendocrine tumor. Enucleation for the pancreatic tumor was done with lymph node dissection and partial hepatectomy.
+
+Outcomes:
+The postoperative course was uneventful, and the patient was discharged 36 days after the operation. The patient is currently alive and has not shown any evidence of tumor recurrence or metastasis.
+
+Follow-up Care Plan:
+The patient will be scheduled for regular follow-up appointments to monitor for any signs of tumor recurrence or metastasis.
+
+Final Diagnosis:
+The patient presented with a metastatic neuroendocrine tumor that manifested in the form of hypervascular liver tumor and vascular and cystic masses in the pancreas. Enucleation for the pancreatic tumor together with lymph node dissection and partial hepatectomy were performed, and the patient's postoperative course was uneventful. 
+
+Confidentiality:
+All medical information in this document is confidential and intended only for the use of the healthcare professionals involved in the care of the patient. Any unauthorized disclosure is prohibited.",1.0,0.0,0

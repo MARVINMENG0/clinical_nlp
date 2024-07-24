@@ -1,0 +1,664 @@
+patient_identifier,text,has_cancer,has_diabetes,test_set
+2817,"Hospital Course:
+
+The patient, a 56-year-old male with no known comorbidities, was admitted to the emergency department with fever, headache, and sporadic vomiting for the past 2 days. On admission, the patient exhibited fever, tachycardia, tachypnea, and poor sensorium. CT scan showed cystic gliosis changes in the left frontal lobe, which was consistent with the surgical history the patient had undergone for a CSF leak 23 years ago. CSF analysis revealed pleocytosis and hypoglycorrachia, suggesting acute pyogenic meningitis. The patient was started on empiric antibiotics and showed improvement. However, he experienced a drop in sensorium, and MRI of the brain with contrast showed post-contrast enhancement of leptomeninges and ventricular walls, along with exudates in the ventricles, indicating ventriculitis. CT cisternogram was performed to check for residual CSF leak, which revealed a porencephalic cyst communicating with the left frontal horn. The patient responded well to intravenous antibiotics and was discharged on day 10 with instructions to continue antibiotics for 6 weeks in view of ventriculitis.
+
+Diagnosis:
+
+Acute pyogenic meningitis with subsequent ventriculitis in the setting of a cystic gliosis change in the left frontal lobe communicating with the frontal horn.
+
+Plan:
+
+The patient is to continue antibiotics as an outpatient for 6 weeks in view of ventriculitis. A follow-up appointment in the outpatient clinic in 2 weeks' time is advised.",0.0,0.0,0
+2052,"Hospital Course:
+The patient was admitted with a single gunshot wound to the abdomen and underwent exploratory laparotomy. At the index operation, he received a right hemicolectomy with end ileostomy due to colon avulsion with ischemia to the hepatic flexure. In addition, PD with choledochojejunostomy, pancreaticojejunostomy, and gastrojejunostomy was performed to manage an entrance and exit wound involving the duodenum's ampulla of Vater and distal common bile duct. He developed a high-grade obstruction at the biliary anastomosis postoperatively and underwent serial attempts at percutaneous cholangioplasty and stenting without success. The subsequent long-term management included percutaneous transhepatic drainage (PTD) and operative revision of the anastomosis to hepaticojejunostomy.
+
+Discharge Summary:
+The patient was discharged after a prolonged hospital course, which involved surgical management of a gunshot wound to the abdomen. He received a right hemicolectomy and PD during the initial operation. Postoperatively, he developed a high-grade biliary obstruction that was managed with long-term PTD and operative revision to hepaticojejunostomy. The patient had an unremarkable recovery from the revision and was discharged in stable condition. The patient should follow up with his healthcare provider to ensure that there are no long-term complications from his injuries.",0.0,0.0,0
+3041,"Discharge Summary:
+
+Patient: 60-year-old male from Jamalpur district
+Admission Date: [Date]
+Discharge Date: [Date]
+
+Chief Complaint:
+Progressive non-itching hypomelanotic macular lesions
+
+History:
+The patient had a previous history of Visceral Leishmaniasis (VL) 11 years back, for which he was treated with Cap. Miltefosine. General and systemic examinations revealed no other abnormalities. Both microscopic examination and qPCR of the skin following a positive rK39 test confirmed the presence of LD body and DNA respectively.
+
+Hospital Course:
+The patient was prescribed to take Cap. Miltefosine for 84 days. After taking the drug for 33 days, the patient experienced mild pain, increased lacrimation, and redness of the left eye followed by photophobia and marked dimness of vision. He was advised to stop the medicine and was referred to the Department of Ophthalmology. The doctors diagnosed him with Mooren’s ulcer based on visual acuity, matted eyelashes, congested conjunctiva, and 360° peripheral corneal infiltration with ulceration. The patient was treated with topical antibiotics, steroids, and lubricant eye drops. He was eventually treated with multi-dose LAmB without any adverse events, after which his eye condition returned to normal.
+
+Follow Up:
+On 6-month follow-up, his skin qPCR for LD-DNA was negative, and there was no ophthalmic complaint.
+
+Diagnosis:
+Visceral Leishmaniasis followed by Mooren's ulcer.
+
+Plan of Care:
+The patient was treated with Cap. Miltefosine and eventually with multi-dose LAmB. The eye condition was managed with topical antibiotics, steroids, and lubricants as per the ophthalmologists. The patient was advised to take necessary precautions and follow-up as per the doctor's advice.
+
+Summary:
+The patient was admitted with the complaints of progressive non-itching hypomelanotic macular lesions. The treatment prescribed for Visceral Leishmaniasis resulted in the development of Mooren's ulcer. The patient was treated with multi-dose LAmB, after which his eye condition returned to normal. On 6-month follow-up, there was no ophthalmic complaint, and his skin qPCR for LD-DNA was negative. The patient was advised to take necessary precautions and follow-up as per the doctor's advice.",0.0,0.0,0
+2563,"Discharge Summary:
+Patient name: [REDACTED]
+Sex: Female
+Age: 70 years
+Admission date: [REDACTED]
+Discharge date: [REDACTED]
+
+Brief Hospital Course:
+The patient was admitted with lethargy, anorexia, nausea, vomiting, and a two-kilogram weight loss. She was diagnosed with severe extracapillary necrotizing glomerulonephritis, interstitial inflammation, and leucocytoclastic necrotizing vasculitis. She received treatment with methylprednisolone pulses, followed by oral prednisolone, hemodialysis, and seven plasma exchanges. She also underwent three sessions of immunoabsorption on a protein A column. Due to severe leucocytopenia with consecutive pneumonia following the first dose of cyclophosphamide, she was switched to weekly rituximab, which was also stopped after the third dose following further infections. Anti-GBM antibodies were negative at 4 months. The patient remained dialysis dependent and was discharged 24 months later.
+
+Diagnosis:
+The patient was diagnosed with severe extracapillary necrotizing glomerulonephritis, interstitial inflammation, and leucocytoclastic necrotizing vasculitis.
+
+Treatment:
+The patient received treatment with methylprednisolone pulses, followed by oral prednisolone, hemodialysis, and seven plasma exchanges. She also underwent three sessions of immunoabsorption on a protein A column. Due to severe leucocytopenia with consecutive pneumonia following the first dose of cyclophosphamide, she was switched to weekly rituximab, which was also stopped after the third dose following further infections.
+
+Follow-up:
+The patient's anti-GBM antibodies were negative at 4 months. She remained dialysis dependent and was discharged 24 months later after continued treatment. The patient should continue to be monitored for any complications related to her condition.
+
+Condition on Discharge:
+The patient's condition remained unchanged. She remained dialysis dependent at the time of discharge.",0.0,0.0,0
+1534,"Hospital Course:
+The patient, a 55-year-old female, was admitted to Mudanjiang Forestry Central Hospital with symptoms including dizziness, gait disturbance, and headache. Upon admission, the patient displayed a body temperature of 39.5 °C, blood pressure of 125/70 mm Hg, pulse rate of 60 beats/min, and respiration of 18 breaths/min. The neurological examination revealed moderate nuchal rigidity. Routine blood tests indicated an inflammatory response, with elevated neutrophil—granulocyte proportion and CRPs. An engorged adult tick had been removed from the patient two weeks before admission. Eleven days after tick removal, she had visited a local clinic with persistent high fever up to 42.0 °C and received supportive treatment with compound paracetamol tablets for two days with no clinical improvement. The routine test for the antibody of Borellia spp. and TBEV in cerebrospinal fluid (CSF) was negative for TBEV but positive for IgG antibody against Borrelia burgdorferi sensu lato (sl) at titer of 1:256 in the serum, leading to a presumptive diagnosis of Lyme disease. During her 10-day admission, the patient was administered doxycycline (100 mg/twice daily).
+
+Diagnostic Tests:
+Laboratory tests of blood showed 53.1 U/L for alanine aminotransferase, 54.3 U/L for aspartate transaminase, and 78.0 U/L for gamma-glutamyl transferase in the blood that was collected on the day of admission, with 0.15 g/L protein detected in urine. CSF tests revealed 0.4 g/L of protein, 4.28 mmol/L of glucose, and 125.3 mmol/L of chloride chloridate, with no white blood cell (WBC) or red blood cell (RBC) in the CSF, collected at four days after hospitalization, and presented visually crystal clear and faint yellow. 
+
+Hospital Course and Treatment:
+During her 10-day admission, the patient was administered doxycycline (100 mg/twice daily) for treatment of Lyme disease. On April 15, 2015, almost two years after initial infection, no Colpodella spp. HLJ strain was detected, indicating no chronic or relapsing infection.
+
+Follow-up:
+In addition, the hospital conducted a screening for Colpodella spp. in 474 Ixodes persulcatus ticks collected in woodlands around the patient’s living area in the Mudanjiang area in 2015 with the same PCR assay, followed by direct sequencing, and subsequently found two I. persulcatus ticks positive for Colpodella spp. The detection of Colpodella spp. DNA in both the CSF of a patient with tick bite history along with isolation in ticks from the same region warrants deeper investigations.",0.0,0.0,0
+157,"[Hospital Course]
+
+The 60-year-old Japanese male patient was admitted due to dyspnea, tachypnea, hypoxemia, and low-grade fever. Blood tests showed leukocytosis, high C-reactive protein levels, and normal liver and renal function. Imaging tests revealed diffuse ground-glass opacification and consolidation in bilateral lung fields. He received noninvasive intermittent positive pressure ventilation and high-dose intravenous methylprednisolone therapy, as well as empiric antibiotics, for an ARDS of unknown etiology.
+
+After 3 days of steroid pulse therapy, the patient significantly improved and was eventually discharged without any symptoms of dyspnea. The steroid was gradually tapered down and discontinued after 7 months.
+
+However, the patient was readmitted in 10 months due to a relapse of dyspnea along with grasping pain in both thighs, proximal muscle weakness in extremities, and elevation of serum creatinine kinase. Imaging tests showed a mixture of diffuse ground-glass opacification and consolidation similar to previous roentgenological patterns. Although the Euroline myositis line blot assay showed negative results for either myositis-specific or myositis-associated antibodies, the short-tau inversion recovery sequence (STIR) of magnetic resonance imaging (MRI) showed inflammatory changes in both hamstring muscles.
+
+Again, after 3 days of high-dose intravenous methylprednisolone therapy, the patient's dyspnea and muscle weakness improved dramatically and the diffuse abnormal shadows in the chest CT scan and high signal on STIR MRI of the hamstring muscles disappeared. The steroid was gradually tapered down, and the patient was discharged without respiratory and muscular symptoms after 26 days.
+
+ [Summary]
+
+The 60-year-old Japanese male patient was admitted twice for dyspnea and respiratory distress and diagnosed with acute respiratory distress syndrome (ARDS) of unknown etiology and a relapse of ARDS along with an initial manifestation of seronegative polymyositis (PM). The patient received high-dose intravenous methylprednisolone therapy, which effectively treated both episodes. Imaging and blood tests were performed to evaluate the patient's condition.
+
+The patient was discharged after a complete resolution of symptoms without any complications and had no further medical issues after the last admission.",0.0,0.0,0
+1047,"Discharge Summary
+
+Patient Name: [REDACTED]
+Gender: Male
+Age: 62 years
+Medical Record Number: [REDACTED]
+
+Hospital Course:
+The patient was admitted to the hospital for the treatment of bullous hemorrhagic dermatosis. He had a history of morbid obesity, coronary artery disease, lipodermatosclerosis of the lower extremities, chronic peripheral venous insufficiency, and prostate cancer (Gleason 4+5) on long-term androgen deprivation therapy. The patient had a small renal tumor for which he was followed with imaging. He had a distant history of varicose vein ligation. The patient was started on enoxaparin 120 mg by subcutaneous injection twice daily after an incidental pulmonary embolism was discovered during surveillance imaging for his prostate cancer. Within several days of starting the anticoagulation therapy, the patient developed small black blisters on his hands that resolved spontaneously. The patient, however, did not report or observe these blisters during clinic visits. Four months after starting enoxaparin therapy, the patient presented with several large hemorrhagic bullae on his calves. His coagulation values and platelet count were within normal range. The diagnosis of bullous hemorrhagic dermatosis (BHD) was made by visual inspection. Enoxaparin was discontinued and apixaban was started as an alternative anticoagulation therapy. The lesions healed in 3 weeks with intensive outpatient wound care and have not recurred to date while on apixaban.
+
+Conditions at Discharge:
+The patient was discharged in stable condition with a plan for follow-up appointments with his primary care physician and outpatient care team.
+
+Instructions:
+The patient was advised to continue the alternative anticoagulation therapy (apixaban) as prescribed and to not restart enoxaparin or any other anticoagulation therapy without consulting his healthcare provider. He was also advised to keep the wound areas clean and dry and to avoid direct sun exposure. The patient was instructed to seek medical attention immediately if any new lesions appear or if he experiences any adverse reactions to his prescribed medications. The patient was advised to follow a healthy diet and exercise plan and to manage his comorbidities as per his healthcare provider's instructions.
+
+Follow-up:
+The patient will follow up with his primary care physician within 2 weeks of discharge and will have a telehealth follow-up visit with his outpatient care team in 4 weeks. Further follow-up appointments will be as per his healthcare provider's recommendations.
+
+Signed,
+[Attending Physician's Name] MD",1.0,0.0,0
+1533,"Discharge Summary:
+
+Patient Name: [REDACTED]
+Sex: Female
+Date of Birth: [REDACTED]
+Date of Admission: [REDACTED]
+Date of Discharge: [REDACTED]
+
+Brief Hospital Course:
+The patient, a newborn female, was delivered via vaginal delivery at full term without any complications. The initial physical exam was unremarkable, and all growth parameters were appropriate for her gestational age. The patient was enrolled in the BabySeq Project's well-baby cohort and underwent whole-exome sequencing at 2.5 months of age. The results were reported without any major health concerns, surgeries, or hospitalizations.
+
+History:
+Both maternal and paternal families had European ancestry, and there was no known consanguinity. The patient had a 17-month-old brother with severe eczema, and two distant paternal relatives had alopecia. There was no known history of any major medical conditions or genetic disorders.
+
+Diagnosis:
+There were no diagnoses or medical conditions that were identified at the time of discharge.
+
+Treatment:
+No treatments were administered during the hospitalization.
+
+Follow-up:
+The patient will be scheduled for routine pediatric follow-up appointments as recommended by her healthcare provider.
+
+Discharge Condition:
+The patient was discharged in stable condition, and the family was provided with appropriate discharge instructions.",0.0,0.0,0
+790,"Hospital Course:
+
+The 54-year-old Chinese male was admitted to our hospital for further investigation of an incidental liver mass. The patient had a history of hypertension for ten years and diabetes mellitus for five years. The patient also had a surgical history of splenectomy. The patient denied any liver cirrhosis and was negative for both hepatitis B virus (HBV) and hepatitis C virus (HCV).
+
+Diagnostic and Therapeutic Interventions:
+
+The patient underwent abdominal ultrasonography (US) and abdominal computed tomography (CT) scan, which revealed a 5cm iso-echoic lesion in the left hepatic lobe, and an oval, slightly hypodense mass located in segment IV of the left liver, measuring 4.5 × 3.3cm. The patient was then subjected to abdominal magnetic resonance imaging (MRI), which showed a slightly hypointense mass on both T1- and T2-weighted images, appearing slightly hyperintense on diffusion-weighted images. A partial hepatectomy and cholecystectomy were performed, followed by a postoperative hematoxylin and eosin staining that revealed sinusoidal structures and lymphoid tissue hyperplasia. Detailed immunohistochemical staining showed positivity for CD3 and CD20, specific markers for lymphocyte T cells and B cells, respectively.
+
+Diagnoses:
+
+The patient was diagnosed with intrahepatic splenosis, which was confirmed by the detection of a capsule separating the spleen tissue from liver tissue.
+
+Condition on Discharge:
+
+The patient was discharged home in good condition.
+
+Discharge Medications:
+
+No medications were prescribed on discharge.
+
+Follow-up Care:
+
+The patient was advised for regular follow-up after discharge.",0.0,1.0,0
+1169,"Discharge Summary:
+
+Patient Name: [Redacted]
+Medical Record Number: [Redacted]
+
+Admission Date: [Redacted]       Discharge Date: [Redacted]
+
+Admitting Diagnosis: Ingestion of metallic nail with duodenal perforation
+
+Hospital Course:
+The 10-year-old boy was admitted to Pediatric Surgery Department, Mayo Hospital with epigastric pain and a history of accidental ingestion of a metallic nail. The patient was observed for a few days at a private hospital but the nail did not pass spontaneously. On admission, there was tenderness in the epigastric region and right hypochondrium. X-ray showed the nail was in the right upper quadrant and remained in the same position. Laboratory reports were unremarkable.
+
+The patient underwent emergency exploration and peroperatively, a metallic nail was found impacted in the second part of the duodenum with a small perforation. No spillage was noted in the peritoneal cavity, and the nail was removed through the perforation. The duodenal perforation was repaired primarily and a drain was placed near the repair. The patient had a smooth and uneventful postoperative recovery. The drain and nasogastric tube were removed on the fourth postoperative day and oral fluids were started on day 5. The patient was discharged on day 9.
+
+Follow-up and Outcomes: 
+On subsequent follow-up, the patient was symptom-free, and there were no complications noted. Permission for publication of the case report was taken from the father, and the ethical approval was obtained from the institute. 
+
+Discharge Diagnosis: Foreign body ingestion with duodenal perforation.
+
+Disposition: Discharged home.
+
+Attending Physician: [Redacted]
+
+Follow-up: The patient is advised to follow-up regularly with their primary care physician.
+
+Signed,
+[Redacted]",0.0,0.0,0
+1523,"Discharge Summary:
+
+Patient Name: [Redacted]
+DOB: [Redacted]
+
+Admission Date: [Redacted]
+Discharge Date: [Redacted]
+
+Diagnosis: Intraductal papillary mucinous carcinoma (IPMC), TisN0M0, stage 0
+
+Medical History:
+The patient had a history of Hilar cholangiocarcinoma and cervical cancer, both of which were successfully resected. The patient was also diagnosed with Peutz-Jeghers Syndrome (PJS) based on the presence of hamartomatous polyps in the gastrointestinal tract and melanin pigmentation on the hands. The patient's son also had PJS.
+
+Hospital Course:
+The patient presented with a suspected pancreatic tumor and was diagnosed with IPMC. Subtotal stomach-preserving pancreaticoduodenectomy was performed, and the surgery was successful. The patient did not experience any complications during her stay and was discharged 20 days after the surgery. No recurrence was observed during the 11-month follow-up period.
+
+Lab Results:
+The level of the tumor marker carcinoembryonic antigen (CEA) was elevated at 6.7 ng/ml, but squamous cell carcinoma antigen, carbohydrate antigen 19-9, and other laboratory data were within the normal limits.
+
+Imaging:
+Contrast-enhanced computed tomography (CT) revealed a cystic tumor with mural nodules at the pancreatic head. Magnetic resonance imaging (MRI) showed a tumor with low intensity on T1-weighted images, high intensity on T2-weighted images, and heterogeneously high intensity on diffusion-weighted images. Endoscopic ultrasound sonography (EUS) showed a high echoic tumor at the pancreatic head.
+
+Procedures:
+Subtotal stomach-preserving pancreaticoduodenectomy was performed.
+
+Discharge Plan:
+The patient was discharged with no complications and was advised to have regular follow-up appointments to monitor for any potential recurrence.
+
+Primary Care Provider:
+Dr.[Redacted]",1.0,0.0,0
+418,"Hospital Course:
+The patient is a 64-year-old male with a medical history of micropapillary thyroid cancer and stage IIIb lung adenocarcinoma who presented with subjective complaints of fatigue, nausea, scalp tenderness, and xeroderma. A screening MRI revealed a new hypovascular pituitary mass measuring approximately 1 cm by 0.8 cm, which, upon further analysis, was discovered to be metastatic lung adenocarcinoma with a positive identification of cytokeratin 7, TTF-1, Ki-67, and epidermal growth factor receptor (EGFR) positive with EGFR gene nucleotide change demonstrating T790M and L858R positivity. The patient underwent transsphenoidal resection of his pituitary mass and subsequent whole-brain radiation. 
+
+Presenting Symptoms:
+The patient's subjective complaints included new onset fatigue, nausea, scalp tenderness, and xeroderma.
+
+Physical Examination:
+On physical exam, xeroderma was appreciated in all extremities. Finger size was proportional and no significant abnormalities were noted.
+
+Diagnostic Tests:
+A screening MRI revealed a new hypovascular pituitary mass measuring approximately 1 cm by 0.8 cm, which was identified as metastatic lung adenocarcinoma. Further histologic analysis revealed the presence of cytokeratin 7, TTF-1, Ki-67, and EGFR gene nucleotide change demonstrating T790M and L858R positivity. 
+
+Treatment:
+The patient underwent transsphenoidal resection of his pituitary mass and subsequent whole-brain radiation. The patient was started on prednisone 20 mg by mouth daily, which was later switched to hydrocortisone 20 mg in the morning and 10 mg in the evening for chronic steroid replacement therapy. The patient was instructed to increase his hydrocortisone to 90 mg daily if acutely ill.
+
+Follow-Up:
+After transsphenoidal resection and subsequent whole-brain radiation, the patient's low morning cortisol and testosterone levels persisted. The patient's testosterone level was <20 ng/dL and his cortisol was <1.0 mcg/dL. Luteinizing hormone and follicle-stimulating hormone were also low, and free T4 and thyroid-stimulating hormone were below normal ranges. Prolactin levels were lower than previous but still elevated at 14.9 ng/mL. 
+
+Summary:
+The patient presented with subjective complaints of fatigue, nausea, scalp tenderness, and xeroderma. A screening MRI revealed a new hypovascular pituitary mass measuring approximately 1 cm by 0.8 cm, which was identified as metastatic lung adenocarcinoma. The patient underwent transsphenoidal resection of the pituitary mass and subsequent whole-brain radiation. However, the patient's low morning cortisol and testosterone levels persisted.",1.0,0.0,0
+503,"Hospital Course:
+The patient, a 79-year-old woman, was admitted for evaluation of abnormal murmur. She presented with a 3-months history of worsening shortness of breath and orthopnea. Physical examination revealed a soft continuous murmur at the left upper chest with basal crackles in both lungs. Chest radiography showed mild cardiomegaly with mild pulmonary congestion. The ECG showed regular sinus rhythm without evidence of ischemia or prior myocardial infarction.
+Transthoracic echocardiography demonstrated a mildly dilated LV with markedly dilated left atrium. The LV ejection fraction was 60% with no wall motion abnormality. Transthoracic echocardiography also showed an unusual, tubular-like structure inside the interventricular septum with a turbulent, predominantly diastolic flow on color Doppler. Transesophageal echocardiography revealed a markedly dilated RCA arising from the right aortic sinus, while the origin of the left coronary artery (LCA) could not be demonstrated. There was a tortuous, abnormal vessel located adjacent to the main pulmonary artery (MPA) emptying into the posteromedial aspect of the MPA. There was an accelerated, continuous flow across the stenotic ostium. Moreover, there was severe MR from a restricted posterior leaflet of the mitral valve (MV) associated with ventricular remodeling in combination with mitral annular dilatation.
+Coronary angiography with a single RCA injection revealed a markedly dilated RCA providing multiple intercoronary collaterals of various sizes communicating with the left coronary system. The LCA later opacified the MPA through a stenotic ostium, establishing the diagnostic hallmark of ALCAPA syndrome. The calculated ratio of pulmonary-systemic blood flow was 1.4, confirming a significant left-to-right shunt. Coronary computed tomography angiography clearly identified the ALCAPA with a retropulmonary ostium. Volume-rendered image depicted the course of the anomalous coronary arteries and its inter-coronary collateral pathways along the epicardial surface and where the LCA connected to the MPA. Stress cardiovascular magnetic resonance perfusion imaging demonstrated no myocardial ischemia, suggesting adequate collateral circulation to the LV.
+
+Discharge Summary:
+The patient was diagnosed with ALCAPA syndrome, a congenital heart defect, resulting in a left-to-right shunt, and severe MR. No myocardial ischemia was detected through stress cardiovascular magnetic resonance perfusion imaging. The patient's LV and LCA were dilated while also experiencing mitral annular dilatation. The disease was diagnosed and monitored through various tests and imaging, such as Transthoracic echocardiography, Transesophageal echocardiography, coronary angiography, and coronary computed tomography angiography. The patient was referred for appropriate follow-up care and treatment.",0.0,0.0,0
+498,"Discharge Summary
+
+Patient Name: [Redacted]
+
+Age: 25
+
+Gender: Female
+
+Admission Date: [Redacted]
+
+Discharge Date: [Redacted]
+
+Hospital: Local Hospital in Mianeh, Iran
+
+Medical History:
+
+The patient was admitted to the hospital in 2016 with fever, abdominal pain, right upper quadrant pain, and loss of appetite. She admitted to the consumption of local watercress in a rural area. Her medical history was unremarkable.
+
+Diagnostic Findings:
+
+Initial laboratory findings showed eosinophilia, platelets, and elevated liver enzymes. Abdominal ultrasonography revealed splenomegaly. Magnetic resonance cholangiopancreatography revealed an ill-defined lesion at the 4th and 8th segments of the liver.
+
+Treatment:
+
+The patient was diagnosed with fascioliasis and treated with Egaten at a dose of 10mg/kg in a single oral dose.
+
+Follow-Up:
+
+Three months after treatment, the fecal examination was negative for F. gigantica eggs and the patient's liver function tests improved with a decrease in blood eosinophil counts.
+
+Outpatient Plan:
+
+The patient should follow up with her primary care physician and continue monitoring her liver function tests with regular lab work. Additionally, she should avoid consuming local watercress and other similar foods without proper preparation.
+
+Signed,
+
+[Redacted]",0.0,0.0,0
+2466,"Discharge Summary:
+
+Patient: 23-year-old male
+
+Admission Date: [date]
+
+Discharge Date: [date]
+
+Reason for admission: One-day history of right-sided pleuritic chest pain, haemoptysis, and fever
+
+Hospital Course:
+
+The patient was admitted with right-sided pleuritic chest pain, haemoptysis, and fever. Physical examination revealed rales and bronchial breathing in the right infrascapular region. Chest X-ray demonstrated right lower lobe consolidation. The patient was diagnosed with community-acquired pneumonia. Computed tomography pulmonary angiogram (CTPA) ruled out pulmonary embolism (PE). The patient was treated with IV ceftriaxone for four days and oral amoxicillin for three days. The patient showed complete resolution of symptoms on day 4 and was discharged.
+
+Discharge Diagnosis:
+
+Community-acquired pneumonia
+
+Instructions for Follow-up Care:
+
+The patient is advised to follow-up with their primary care physician and continue taking their prescribed medications as directed.
+
+Follow-up Lab and Diagnostic Exams:
+
+None
+
+Follow-up Appointments:
+
+The patient is advised to schedule a follow-up appointment with their primary care physician.
+
+Technical Terms and Abbreviations:
+
+PE: Pulmonary Embolism
+
+CTPA: Computed Tomography Pulmonary Angiogram
+
+IV: Intravenous",0.0,0.0,0
+3146,"Hospital Course Summary:
+
+Admission Date: [Date of Admission]
+Discharge Date: [Date of Discharge]
+
+Patient Information:
+Name: [Patient Name]
+Age: 33
+Gender: Female
+Medical Record Number: [Patient MRN]
+Condition: Epistaxis
+
+Hospital Course:
+The patient presented to the emergency department with left nasal bleeding and a one-month history of persistent left-sided nasal obstruction. The patient was free of medical diagnoses and had no personal or family history of bleeding disorders or any other conditions. Anterior nasal packing was applied, and bleeding stopped two hours later. The patient returned to the emergency department two more times for epistaxis and was managed conservatively. The patient delivered a healthy baby and was taken to the ORL clinic for reassessment. A CT scan revealed a heterogeneously enhanced soft tissue mass, and the patient agreed to undergo surgical excision. The mass was diagnosed as LCH. Postoperatively, left-sided nasal obstruction markedly improved, and the patient was completely asymptomatic during follow-up appointments.
+
+Diagnosis: LCH
+
+Discharge Condition: The patient was discharged in good condition.
+
+Discharge Instructions:
+The patient is advised to continue nasal saline irrigation and avoid nasal trauma or picking. The patient is instructed to follow up with the ORL clinic as needed.
+
+Signed, 
+[Attending Physician Name]
+[Date]",1.0,0.0,0
+2421,"Discharge Summary:
+
+Patient Name: [REDACTED]
+
+Date of admission: [REDACTED] Date of discharge: [REDACTED]
+
+Reason for admission: Polyuria and polydipsia of sudden onset.
+
+Clinical course:
+
+The patient, a 27-month-old boy, was admitted to the hospital for observation and treatment of polyuria and polydipsia of sudden onset. Prior evaluation revealed normal serum sodium, glucose, BUN, creatinine, ACTH, TSH, thyroxine level, IGF, cortisol, ESR, and prolactin levels. Head MRI did not reveal any pituitary or other intracranial pathologies, and a renal ultrasound showed a right kidney with a duplicated collecting system with mild prominence of the lower pole of the renal pelvis. An informal water deprivation test was conducted at home, and the patient was diagnosed with partial DI and started on oral DDAVP.
+
+During the admission, a formal water deprivation test was conducted, and the patient's urine osmolality increased from 270 mOsm/kg to 753 mOsm/kg. He was discharged home with fluid restriction to 1.5 L/day. Since discharge from the hospital, parents were able to reduce his water intake with resolution of polyuria. However, he continued to request water to help him fall asleep at night.
+
+Final diagnosis: Partial DI.
+
+Treatment: The patient was started on oral desmopressin (DDAVP) and the dose was titrated up to 0.2 mg twice daily for effect. The patient was also placed on fluid restriction to 1.5 L/day.
+
+Discharge instructions: The patient's parents were advised to continue with the fluid restriction to 1.5 L/day and to monitor the patient's water intake closely. The patient was advised to avoid over-hydration and to request water only when necessary. A follow-up appointment was scheduled with the primary care physician in 2 weeks.
+
+Condition at discharge: Stable.
+
+Follow-up: Follow-up with the primary care physician in 2 weeks.
+
+Signed by: [REDACTED]",0.0,0.0,0
+3133,"Discharge Summary:
+
+Patient Information:
+The patient is a 23-year-old female with end-stage renal disease (ESRD) secondary to hypoplastic kidneys who underwent a renal transplant using kidneys from a 9-month-old female donor.
+
+Hospital Course:
+The transplant was successful, and both kidneys were reperfused simultaneously with excellent perfusion. Immediate postoperative ultrasound showed no dialysis needs, and the kidneys had immediate function.
+
+Outcome:
+The patient's initial post-transplant eGFR was 9 ml/min, which improved to 82 ml/min at 30 days post-transplant, reaching a maximum eGFR of 94 ml/min at 30 weeks post-transplant. The patient had a CT scan a year after the transplant, which revealed significant growth in the size of the kidneys. The patient continues to maintain the same eGFR over two years later despite an episode of BANF IIA ACR and AMR treated with rabbit antithymocyte globulin, followed by total plasma exchange and IVIG and rituximab. The patient required several biopsies throughout the course of this episode, which were technically easy to perform using standard ultrasound-guided technique.
+
+Discharge Instructions:
+The patient was discharged on post-operative day six with a baseline creatinine of 1.3 mg/dL. No further discharge instructions were required.
+
+Follow-up:
+The patient will require regular follow-up with her transplant team to monitor her kidney function.",0.0,0.0,0
+1221,"Hospital Course:
+Patient 2, a 32-year-old male with a history of CDH1 mutation and HDGC, presented for prophylactic total gastrectomy. The procedure was completed without complications, and the patient was discharged home on post-operative day 7.
+
+Admission:
+The patient returned to the hospital 5 days later with symptoms of diffuse abdominal pain, dark-colored emesis, and no bowel movements for 2 days. Abdominal CT scan revealed a dilated, gas-filled small bowel loop. However, subsequent tests were unremarkable except for elevated amylase and lipase levels, which suggested pancreatitis as a more likely source for his pain. The patient was treated for pancreatitis and discharged without further complications.
+
+Discharge Condition:
+At the time of this report, patient 2 is well with no evidence of disease.
+
+Summary:
+Patient 2 underwent prophylactic total gastrectomy due to the presence of the CDH1 mutation and HDGC. The pathology report showed microscopic foci of signet ring cells in the lamina propria without the invasion of the submucosa, consistent with poorly differentiated adenocarcinoma of the stomach. After his initial recovery, he was readmitted for abdominal pain, dark-colored emesis, and no bowel movements. A CT scan showed a gas-filled small bowel loop, while elevated amylase and lipase suggested pancreatitis. After receiving treatment for pancreatitis, the patient recovered well and was discharged without further complications.",1.0,0.0,0
+2901,"Hospital Course:
+
+The patient, a 16-year-old male with a history of relapsing nephrotic syndrome secondary to minimal change disease, presented to the emergency department with acute onset left flank pain and frank haematuria. Imaging tests revealed acute complete thrombosis of the circumaortic left renal vein, with extension into the inferior vena cava (IVC), and moderate perinephric free fluid. The patient was started on unfractionated heparin and underwent endovascular pharmacomechanical thrombolysis and thrombectomy to restore patency of the left renal vein and IVC. The patient tolerated the procedure well without complications and continued on systemic anticoagulation. Follow-up imaging tests showed the IVC and left renal vein to be patent without evidence of residual or recurrent thrombus.
+
+Discharge Summary:
+
+The patient, a 16-year-old male with a history of nephrotic syndrome secondary to minimal change disease, was admitted to the hospital with acute left flank pain and frank haematuria. Imaging tests revealed acute complete thrombosis of the circumaortic left renal vein, with extension into the inferior vena cava (IVC), and moderate perinephric free fluid. The patient underwent endovascular pharmacomechanical thrombolysis and thrombectomy with no complications and was continued on systemic anticoagulation. Follow-up imaging tests showed the IVC and left renal vein to be patent without evidence of residual or recurrent thrombus. 
+The patient was discharged in stable condition and instructed to follow up with their primary care physician and paediatric nephrologist.",0.0,0.0,0
+2183,"DISCHARGE SUMMARY
+
+Patient Name: [REDACTED]
+
+Medical Record Number: [REDACTED]
+
+Admission Date: [REDACTED]
+
+Discharge Date: [REDACTED]
+
+Admitting Diagnosis: Adenocarcinoma suspected in elevated lesions found in the second part of duodenum
+
+Hospital Course:
+
+The patient is a 60-year-old woman who presented to our department with an elevated lesion on both the left and right wall of the second part of her duodenum that was suspected to be adenocarcinoma. Biopsy findings supported this diagnosis, and the patient underwent UW-EMR to excise two lesions and biopsy several small others. The procedure was successful, and the patient had a favorable postoperative course without complications such as bleeding or perforation. She was able to resume eating without issue and was discharged on postoperative day eight.
+
+Follow-up endoscopic examination was performed one month after the UW-EMR, at which time wound scarring was observed in both lesions, and no endoscopic findings of recurrence were seen. Subsequent examinations at 6, 12, and 21 months post-treatment also showed no recurrence.
+
+Final pathological diagnosis of the resected specimens revealed that the elevated lesions in which adenocarcinoma was suspected during the preoperative biopsy were, in fact, adenocarcinomas, while other lesions were diagnosed as adenomas.
+
+Discharge condition:
+
+The patient was discharged in stable condition, free from complications, and is recommended to continue regular follow-up examinations as scheduled.
+
+Discharge medications:
+
+None
+
+Discharge instructions:
+
+The patient is to continue follow-up with her primary care physician and attending providers at our facility in accordance with the established schedule. She is advised to maintain a healthy lifestyle and report any unusual symptoms or developments to her healthcare team.",1.0,0.0,0
+890,"Discharge Summary
+
+Admission Date: May 2013 
+Discharge Date: July 2013 
+Principal Diagnosis: MDS with excess blasts: refractory anemia with excess blasts-1 (RAEB-1)
+
+Hospital Course:
+
+The patient, a 75-year-old Caucasian man, was admitted for bicytopenia in May 2013. His initial blood cell count showed hemoglobin 8 g/dl, platelets 87 × 109/l, and leukocytes 6.1 × 109/L. He had a medical history of T2D treated with biphasic insulin aspart and triple-bypass surgery for coronary disease in 2010. No family history of hematological malignancies was noted. He was hospitalized in an intensive care unit for grade IV anemia and then transferred to the hematology department after blood transfusions. Bone marrow aspiration showed multilineage dysplasia with 8% of blasts, consistent with a diagnosis of MDS with excess blasts: refractory anemia with excess blasts-1 (RAEB-1).
+
+The patient was initially treated with darbepoetin 300 μg per week, without response. A second bone marrow aspiration two months later showed 29% of blasts, consistent with the diagnosis of AML progression. He consented to participate in a phase I–II clinical research study assessing the combination of 5-azacitidine with idarubicin in July 2013. He showed a partial response with 8% of bone marrow blasts after six cycles, and transfusion independence.
+
+However, the patient reported higher blood glucose levels 2–3 days after the start of each 5-azacitidine cycle, requiring an increased dose of self-administered insulin. Further monitoring confirmed higher blood glucose levels from days 4 to 12 of each 5-azacitidine cycle. No change in diet or in physical activities was noted. Our patient experienced such dysregulation during all the additional 15 cycles until a fatal progression of AML.
+
+Impression:
+
+The patient was admitted with bicytopenia and diagnosed with MDS with excess blasts: refractory anemia with excess blasts-1 (RAEB-1). After no response to initial treatment, he participated in a clinical research study and experienced a partial response. However, he had blood glucose dysregulation during the treatment cycles. Unfortunately, he experienced a fatal progression of AML.",1.0,1.0,0
+1170,"Name: N/A
+Age: 40
+Sex: Male
+
+Hospital Course:
+- Patient sustained bilateral grade 3b tibia fractures due to an accident with a bark stripping machine.
+- Following initial surgical management, a temporary fixator was applied along with appropriate debridement.
+- At the 48-hour, first definitive surgery, a tibial bayonet procedure was performed and a standard two-ring/four-half-pin hexapod frame was applied.
+- Initial lengthening was achieved over a period of 6 weeks followed by realignment of the two fragments using the TL-Hex® software.
+- The patient was assisted by physiotherapists and mobilized with crutches and a walker frame within the first week following surgery to encourage functional mobilization.
+- The accuracy of the correction was verified with serial radiographs at one-month intervals.
+
+Summary:
+- Patient sustained bilateral grade 3b tibia fractures.
+- Temporary fixator was applied followed by a tibial bayonet procedure.
+- Initial lengthening was achieved followed by realignment of the two fragments.
+- Patient was assisted and mobilized with crutches and a walker frame.
+- The accuracy of the correction was verified with serial radiographs.",0.0,0.0,0
+2200,"DISCHARGE SUMMARY:
+
+Patient Name: [Redacted]
+Age: 38
+Sex: Female
+Medical Record Number: [Redacted]
+
+History of Presenting Illness:
+The patient presented to the hospital with a 2-month history of headache in August 2012. A neurological examination showed a limitation of temporal movement in her right eye. Brain MRI revealed masses in her clivus, measuring 34 mm x 10 mm and 20 mm x 19 mm. She underwent surgery and was subsequently treated with stereotactic radiotherapy. In March 2014, a recurrence in her clivus was detected and she underwent another operation. In January 2015, she presented with diplopia, and a recurrent mass in her clivus was detected with invasion to the pons. External cranial radiotherapy was performed for palliative intent. She was started on imatinib in April 2015 and sunitinib in June 2017.
+
+Hospital Course:
+During her admission, the patient reported several symptoms including periorbital edema, skin rash, nausea, visual loss, fatigue, and hand-foot syndrome. She received 25 months of imatinib therapy and 6 months of sunitinib treatment. Her symptoms were monitored and managed accordingly.
+
+Laboratory Findings:
+No significant abnormalities were observed in the laboratory findings.
+
+Radiographic Findings:
+Brain MRI showed a residual mass in her clivus in March 2015. Progressive disease was confirmed in May 2017, and radiological and clinical progression was detected in December 2017.
+
+Hospital Treatment:
+The patient underwent several treatments including surgery, stereotactic radiotherapy, and external cranial radiotherapy. She was started on imatinib in April 2015, and sunitinib in June 2017. She received the appropriate supportive care during her hospital stay.
+
+Discharge and Follow-Up Plan:
+The patient was discharged in April 2018 and continued her follow-up with best supportive care until her death on 23 April 2018.",1.0,0.0,0
+763,"Hospital Course:
+A 22-year-old male with a known hepatitis B infection presented with low-grade intermittent fever, nausea, and decreased urine output. On physical exam, the patient was delirious with scleral icterus, tachycardia, and a temperature of 101°F. Initial investigations revealed elevated serum creatinine and bilirubin levels. Hemodialysis was initiated on the second day of admission. Thrombotic thrombocytopenic purpura was ruled out, and an abdominal ultrasound showed mild ascites and splenomegaly. A head CT scan was negative, but a chest, abdomen, and pelvis CT showed multiple findings including basal consolidation, atelectasis in the lungs, swollen pancreas, thickened colon walls, hepatosplenomegaly, and kidney and peritoneal hemorrhages. Further investigations revealed a serum fibrinogen level of 292 mg/dL, serum triglyceride level of 496 mg/dL, and a serum ferritin level of 30,304 ng/mL. Blood cultures were unrevealing for microbial growth. A bone marrow biopsy on the tenth day of admission showed cellularity and increased hemophagocytic activity, suggesting hemophagocytic lymphohistiocytosis (HLH). Treatment with etoposide and dexamethasone was initiated per HLH protocol, and the patient showed clinical improvement.
+ 
+Hospital Course Summary:
+A 22-year-old male with hepatitis B infection presented with delirium, low-grade fever, and nausea. He was found to have elevated serum creatinine and bilirubin levels and underwent hemodialysis on the second day of admission. Workup for thrombotic thrombocytopenic purpura was negative, but a CT scan showed multiple findings including consolidations in the lungs, swollen pancreas, thickened colon walls, hepatosplenomegaly, and kidney and peritoneal hemorrhages. Further investigations indicated the presence of HLH. The patient was treated with etoposide and dexamethasone according to HLH protocol and showed clinical improvement.",0.0,0.0,0
+1828,"Hospital Course:
+
+The 80-year-old male presented to the emergency department with hematemesis and bleeding around the gastrostomy site. A review of his medication list showed he was taking aspirin 81 mg daily but no additional antiplatelet drugs, anticoagulants, or nonsteroidal anti-inflammatory drugs (NSAIDs). On physical exam, he was hypotensive, tachycardic, and febrile. The gastric ulcer with signs of recent bleeding was revealed as the cause of his gastrointestinal bleeding on EGD, which also showed dislodgment of the gastrostomy tube with compression and ulceration of the gastric wall. The dislodged gastrostomy tube was replaced with a new balloon gastrostomy tube by endoscopy.
+
+Hospital Course Summary:
+
+The patient with a prior stroke, dementia, hypertension, hyperlipidemia, and diabetes mellitus was admitted following GI bleed secondary to a gastric ulcer with dislodged gastrostomy tube at the nursing home. The patient was managed with aggressive hydration, blood transfusions, and EGD, which revealed the ulcer with recent bleeding and compression and ulceration of the gastric wall. A new balloon gastrostomy tube was inserted via the gastrostomy, and the patient's condition improved. The patient was discharged to the same nursing home with enteral feeding resumed. The patient's symptoms and vital signs stabilized, and the patient exhibited improved clinical condition at the time of discharge.",0.0,1.0,0
+1192,"Discharge Summary:
+
+Patient Name: [REDACTED]
+
+Admission Date: [REDACTED] Discharge Date: [REDACTED]
+
+Admitting Diagnosis: Nephrolithiasis
+
+Discharge Diagnosis: Nephrolithiasis, Xanthinuria, Lesch-Nyhan Syndrome, Heterozygous Factor V Leiden
+
+Hospital Course:
+
+The patient, a 12-year-old boy with Lesch-Nyhan syndrome, was admitted with complaints of dysuria, hematuria, and pain. A renal ultrasound and CT scan of the abdomen and pelvis demonstrated the presence of staghorn calculi in both kidneys. The patient was treated with potassium citrate and underwent a right percutaneous nephrolithotomy (PCNL).
+
+During the hospital stay, the patient developed anemia and received treatment. The patient was diagnosed with heterozygous Factor V Leiden with elevated homocysteine, and folic acid was started. The patient later underwent a laparoscopic Nissen fundoplication with gastrostomy tube and open pyloroplasty due to aspiration of liquids, gastroesophageal reflux, and markedly delayed gastric emptying.
+
+The patient continued to suffer from nephrolithiasis, requiring left percutaneous nephrolithotomy (PCNL) 6 months after the right-sided procedure. The patient was found to have extensive bilateral nephrocalcinosis without hydronephrosis or hydroureter.
+
+Discharge Plan:
+
+The patient was discharged with instructions to follow up with the treating physician. The patient was advised to maintain a healthy lifestyle and adhere to prescribed medications. The parents were advised to monitor the patient and report any changes in symptoms to the treating physician.
+
+The patient was discharged with instructions for a follow-up appointment with the treating physician to review the continued management of the patient's medical conditions. The patient was advised to continue prescribed medications and maintain a healthy lifestyle to prevent further complications.",0.0,0.0,0
+823,"Hospital Course:
+An 11-year-old girl was admitted to the hospital with complaints of upper abdominal pain and recurrent vomiting. An abdominal examination revealed a nontender lump in the epigastric region. Laboratory results indicated microcytic hypochromic anemia. The patient had a history of disturbed behavior and decreased appetite for the past few months. A sibling reported observing the patient occasionally chewing on her hair, but did not report it as a significant issue.
+
+Diagnostic Tests:
+Upper gastrointestinal endoscopy was performed to assess the patient's condition. The procedure identified a large blackish mass in the stomach with a hair-stuffed material sample. Diagnosed with trichobezoar, an unusual condition where a trapped hairball in the stomach causes digestive issues. Surgery was performed, an anterior gastrotomy, and the large hairball occupying the whole stomach and extending into the duodenum was removed.
+
+Treatment and Outcome:
+After the surgery, the patient was discharged following psychiatric consultation. She received routine follow-ups for six months, and the current condition is good as there have been no significant complications or health issues.
+
+Conclusion:
+The case study indicates Trichobezoar is a rare digestive disorder usually found among young adults predominantly in females. It is caused by hair ingestion and leads to digestive issues requiring surgical management.",0.0,0.0,0
+2097,"DISCHARGE SUMMARY
+
+Patient Name: [REDACTED]
+Date of Admission: [REDACTED]
+Date of Discharge: [REDACTED]
+
+Hospital Course:
+
+This is a summary of the hospital course for a neonate with several medical conditions and congenital perineal groove. The patient was born via vaginal delivery to a 34-year-old Asian mother who had gestational diabetes. The infant's birth weight was 4910 g, and Apgar scores were 6 and 8 at 1 and 5 min, respectively. Due to dyspnea, the neonate was evaluated further in the NICU where a perineal defect was noted. On examination, a perineal groove was observed that extended vertically downward from the base of the vaginal fourchette to the anterior rim of the anus at the 12 o'clock position. The perineal groove was a moist red sulcus that was about 1 cm long, 0.1 cm wide and 0.1 cm deep.
+
+The neonate had multiple medical conditions, including asphyxia neonatorum, neonatal wet lung disease, fetal macrosomia, cephalohematoma of newborn, PDA, and myocardial injury that were managed while inpatient. During admission, the neonate had normal excretory functions and vital signs. The patient was diagnosed with congenital perineal groove and as a neonate of a diabetic mother based on clinical examination. 
+
+After further examinations, the neonate was discharged home with her parents at 9 days of life when all her conditions improved. The parents in case one and case two were advised to undergo follow-up examinations. 
+
+Discharge Diagnosis:
+
+1. Congenital perineal groove 
+2. Neonate of diabetic mother
+
+Discharge Instructions:
+
+The patient has been discharged with instructions to follow up with their primary pediatrician after discharge. Please adhere to the following recommendations: 
+
+1. Schedule a follow-up appointment with your pediatrician for continued monitoring of the patient's health.
+2. Administer all prescribed medications as prescribed.
+3. Give special attention to any signs of infection, bleeding, or unusual excretory functions.
+4. Be vigilant for any indications of malformation and fistula in the genital area.
+5. Inform your primary pediatrician if you have any concerns or questions.
+
+Follow-Up Care:
+
+The patient is advised to follow up with their primary pediatrician after discharge for continued monitoring of their health. Please ensure that the patient adheres to all scheduled follow-up appointments. 
+
+Discharge Condition:
+
+The patient has been discharged in stable condition. No further medical interventions or hospitalizations are currently indicated.",0.0,0.0,0
+710,"Hospital Course Summary:
+
+Patient’s hospital course was complicated by metastatic pulmonary large-cell neuroendocrine carcinoma that had progressed from the initial diagnosis and resulted in the patient receiving chemotherapy, radiotherapy, and immunotherapy with pembrolizumab. After 5 cycles of immunotherapy, the patient presented with dyspnea and cough but no fever. Clinical examination revealed oxygen saturation of 84%, and thorax angiotomography showed bilateral ground-glass opacities. Pulmonary thromboembolism was ruled out, and treatment with metilprednisolone and piperaciline-tazobactam was started for the suspicion of pneumonitis. The patient showed significant clinical improvement within 24 hours, and a controlled computed tomography performed 1 week after treatment showed almost full resolution of pulmonary opacities.
+
+Discharge Summary:
+
+The patient, a 54-year-old man diagnosed with pulmonary large-cell neuroendocrine carcinoma, has been discharged in good condition after the treatment of complications related to immunotherapy with pembrolizumab. The patient responded well to treatment with metilprednisolone and piperaciline-tazobactam for pneumonitis. The patient is advised to follow up with their primary care physician and specialists as needed.",1.0,0.0,0
+2275,"Discharge Summary:
+
+Patient: 59-year-old Italian male with HBV and HCV co-infection, presenting with a lesion on the left lower lip.
+
+Hospital Course:
+The patient presented with a non-healing ulcer on the left lower lip. He had a history of HBV and HCV co-infection and had undergone OLT due to HCC. The patient had received treatment with antibiotics and antiviral medication for 10 days without any relief. A punch biopsy was performed and showed chronic granulomatous inflammation. Real-time PCR was positive for MTB, and conventional microbiological investigations showed sensitivity to all first-line drugs tested.
+
+Treatment:
+The patient was started on a 2-month intensive therapy regimen with rifabutin, isoniazid, ethambutol, pyrazinamide, and daily supplementation of B6 vitamin. The therapeutic regimen was then simplified to rifabutin and isoniazid for the following 4 months. Throughout the treatment, liver function and level of immune-suppressive treatment were monitored.
+
+Outcome:
+After 3 weeks of therapy, a dramatic clinical improvement was observed, and after 6 months of treatment, the lesion was cured. The patient was discharged from the hospital in stable condition with a recommendation to continue TB treatment as prescribed. 
+
+Follow-up:
+The patient is advised to continue taking his TB medication as prescribed and to follow up with his primary care physician for ongoing monitoring.",1.0,0.0,0
+1809,"Discharge Summary:
+
+Patient Name: [Redacted]
+Age: 89
+Gender: Male
+
+Hospital Course:
+The patient was admitted to the hospital with complaints of fatigue, rigors, and fever one day after his first ever hemodialysis session. The patient's hemoglobin acutely decreased, and a fecal occult blood was positive. Further investigation revealed a 5-centimeter mass in the right upper lobe of the lung, MRSA infection, and a 50-millimeter noncircumferential bleeding mass in the gastric cardia. The biopsy report showed a high grade malignant neoplasm with immunohistochemistry positive for cytokeratin CAM 5.2, polytypic cytokeratin, and 4 different melanoma markers. A CT scan of the abdomen and pelvis confirmed metastatic disease involving the dome of the liver. Based on the patient's history of melanoma and biopsy findings, the diagnosis of metastatic malignant melanoma to the stomach was made. The patient was started on treatment with nivolumab, but unfortunately, he decompensated 2 months after his diagnosis was made and was enrolled in hospice care.
+
+Diagnosis:
+1. End stage renal disease
+2. Hemodialysis
+3. Localized melanoma of the chest
+4. Metastatic malignant melanoma to the stomach
+5. MRSA infection
+6. Anemia
+7. Gastric bleeding
+8. Metastatic disease involving the liver
+
+Treatment:
+1. Nivolumab
+
+Follow-up Care:
+The patient has been enrolled in hospice care.",1.0,0.0,0
+1320,"Hospital Course:
+The patient presented to the clinical department with a slow-growing swelling on the left side of the face that had been present for the past two years causing slight discomfort upon mastication. The patient underwent extraoral and intra-oral examinations that revealed marked facial asymmetry and a swelling extending from tooth 32 to the ramus of the mandible causing displacement of teeth 34, 35, and 37. Orthopantomogram demonstrated a large unilocular radiolucency extending from the left parasymphyseal area of the mandible up to the ramus and root resorption of teeth 33, 34, 35, and 37 was seen along with the residual roots of tooth 36. An incisional biopsy revealed a fibro-osseous lesion, and the final diagnosis was established as central odontogenic fibroma. The patient underwent surgical excision of the lesion, and on the third-month follow-up, a significant decrease in extraoral swelling was observed. 
+
+Hospital Course Summary:
+- Patient presented with a slow-growing swelling on the left side of the face causing slight discomfort upon mastication.
+- Extraoral and intra-oral examinations revealed marked facial asymmetry and swelling extending from tooth 32 to the ramus of the mandible causing displacement of teeth 34, 35, and 37.
+- Orthopantomogram demonstrated a large unilocular radiolucency extending from the left parasymphyseal area of the mandible up to the ramus.
+- Incisional biopsy revealed a fibro-osseous lesion, and the final diagnosis was established as central odontogenic fibroma.
+- Patient underwent surgical excision of the lesion.
+- On the third-month follow-up, a significant decrease in extraoral swelling was observed.",0.0,0.0,0
+2840,"Patient Information:
+
+Name: [Redacted]
+Gender: Male
+Age: 44
+
+Chief Complaint:
+Swelling and dull pain in the left mandible
+
+Hospital Course:
+The patient was admitted to the Maxillofacial Surgery Clinic with reports of swelling and dull pain in the left mandible. Clinical examination revealed swelling in the left lower molar area and the left mandible. Radiological examination showed a large irregular multilocular radiolucency in the left area of the mandible, extending to the premolar and molar area. A CT image revealed an abnormal mass in the mandible. The initial clinical impression was an ameloblastoma, myxoma, keratocystic odontogenic tumor or another tumor type lesion.
+
+The patient underwent surgery to remove the mass and the buccal cortical bone that was in contact with the mass. The mass was fully excised, and the inferior alveolar nerve in contact with the mass was preserved.
+
+Microscopically, the tumor tissues were composed of plexiform or cord-like nests of tumor cells with round to oval nuclei and eosinophilic cytoplasm in a matrix with prominent myxoid change. The primary tumor was diagnosed as a glomus tumor based on these findings. Immunohistochemical staining was positive for vimentin, muscle-specific actin/HHF35, Calponin, and a hairline-shaped area of positive staining for type IV collagen surrounding the tumor cells. The patient remained symptom-free with no signs of recurrence.
+
+During an 8-year follow-up, a recurrent tumor was detected in a panoramic radiograph. After CT and MRI exams, the recurrent tumor mass and related teeth were removed under general anesthesia. The patient has no symptoms of recurrence as of this writing, 2 years after the second operation and will be followed for the long term to promptly detect any signs of new tumor growth.
+
+Conclusion:
+The patient presented with swelling and dull pain in the left mandible. After the initial clinical evaluation and imaging studies, a glomus tumor was diagnosed, and surgical excision was performed. The patient presented with a recurrent mass 8 years after the primary surgery, and the mass was also surgically removed. Follow-up showed no signs of recurrence to date.",1.0,0.0,0
+2260,"Medical History:
+The patient is a 52-year-old woman with a history of chemotherapy for coat cell lymphoma in 2011, splenectomy in 2013 and autologous bone marrow transplantation in 2014.
+
+Hospital Course:
+The patient was admitted to the medical intensive care unit (ICU) due to fever and malaise. Upon admission, she was somnolent with rales over both lungs and tachycardia without heart murmurs. She was suspected of having sepsis with septic shock and pneumonia. Standard electrocardiogram (ECG) showed sinus tachycardia of 125/min.
+
+Treatment and Diagnostic Procedures:
+The patient's shock was managed initially by rapid infusion of crystalloids followed by noradrenalin infusion up-titrated to 66μg/min and other medications to reach normotension. Imipenem 500 mg/6 h IV was administered after collecting hemocultures, urinoculture and aspirates. Continuous ECG monitoring, pulse oximetry, non-invasive blood pressure measurements were performed along with central venous, arterial and urine catheters for hemodynamic and fluid management.
+
+Results:
+Positive pneumococcal urine antigen confirmed streptococcal pneumonia, and other microbiological cultures remained negative. The patient needed 40% oxygen by mask for satisfactory blood gases and did not need either non-invasive or invasive ventilation during the entire ICU stay. Hemodynamic instability led to the decision to start continuous veno-venous hemofiltration (CVVH) combined with hemoadsoption treatment by CytoSorb® membrane for the next 24 h, which improved hemodynamic situation. The patient received CVVH intermittently for another 21 days.
+
+Discharge Summary:
+The patient recovered from septic shock with improvement in hemodynamics and inflammatory response after receiving comprehensive treatment and diagnostic procedures. The goal of the treatment was to improve renal function, and she was discharged from the medical ICU after 10 days and from the hospital after 76 days.",1.0,0.0,0
