@@ -1,5 +1,5 @@
 # Problem to solve: 
-In this assessment my goal is to take written clinical notes about patients and determine if they have:
+In this project my goal is to take written clinical notes about patients and determine if they have:
 1. Cancer (Yes / No)
 2. Diabetes (Yes / No)
 
@@ -51,7 +51,7 @@ However, it seems that the model may be over-zealously predicting positive cases
 
 # Future Steps
 ## Continued Pretraining:
-In this assignment, I utilized the unlabelled data by predicting pseudo-labels and then using them as training data in a self-learning method. I believe that a better utilization of the unlabelled data would be to perform additional pretraining on the base LLM on masked inputs of the data, so that the model will have better familiarity with medical-specific text. It may not be necessary to update all weights in the pretraining, a parameter we could choose is the subset of weights to update during this additional pretraining.
+In this project, I utilized the unlabelled data by predicting pseudo-labels and then using them as training data in a self-learning method. I believe that a better utilization of the unlabelled data would be to perform additional pretraining on the base LLM on masked inputs of the data, so that the model will have better familiarity with medical-specific text. It may not be necessary to update all weights in the pretraining, a parameter we could choose is the subset of weights to update during this additional pretraining.
 
 ## Data Imbalance: 
 Even among the labelled data, there is a large amount of imbalance. For the cancer labels, only 20 / 50 data points are in the positive class, while in the diabetes labels only 5 / 50 are in the positive class! The data imbalance will make it difficult to train the model to recognize the minority classes. In the future I would like to implement procedures to mitigate this imbalance. Some possible methods would be:
